@@ -7,14 +7,15 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-# Projeto - Portifólio para escrita do README
+# 🚀 Projeto - Portifólio para escrita do README
 
-## Descrição 
 
-## Funcionalidades
+## 📋Descrição 
 
-### Tecnologia ultilizadas 
+## 🔧 Funcionalidades
 
-## Fontes consultadas 
+### 🛠️ Tecnologia ultilizadas 
 
-## Autores
+## 📄 Fontes consultadas 
+
+## ✒️ Autores
