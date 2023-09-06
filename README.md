@@ -5,7 +5,8 @@
 [Funcionalidades](#funcionalidades)  
 [Tecnologia ultilizadas](#tecnologia-ultilizadas)   
 [Fontes consultadas](#fontes-consultadas) 
-[https://github.com/]
+[https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89]
+[https://www.alura.com.br/artigos/escrever-bom-readme]
 [Autores](#autores)  
 
 # 🚀 Projeto - Portifólio para escrita do README
@@ -20,8 +21,9 @@
 
 ## 📄 Fontes consultadas 
 
-### https://github.com/
+### https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 
+### https://www.alura.com.br/artigos/escrever-bom-readme
 
 
 ## ✒️ Autores
