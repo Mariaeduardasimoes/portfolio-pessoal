@@ -27,5 +27,6 @@
 
 
 ## ✒️ Autores
-# Maria Eduarda Simões Almeida
+
+### Maria Eduarda Simões Almeida  
 ![imagem](img/autora.jpeg)
