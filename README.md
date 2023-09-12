@@ -30,5 +30,5 @@
 
 * Maria Eduarda Simões Almeida - Documentação 
 
-![imagem](img/autora.jpeg)
+![imagem](img/autora.jpeg | width=100)
 
