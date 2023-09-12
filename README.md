@@ -29,18 +29,6 @@
 ## ✒️ Autores
 
 * Maria Eduarda Simões Almeida - Documentação 
+
 ![imagem](img/autora.jpeg)
-
-## Tente redimensioná-lo!
-
-- `![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | largura=100)`
-  - ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | largura=100)
-
-- `![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)`
-  - ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-- `![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)`  
-  - Copie `<img>` no DevTools do navegador. Substitua `![](url)` por `<img>`. Adicione o atributo de largura (e altura).
-  - `<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />`
-  -<img src="https://camo.githubusercontent.com/331400aee821efda2e36ee9b3bc8bce93b975109/68747470733a2f2f6779617a6f2e636f6d2f656235633537343162366139613136 63363932313730613431613439633835382e706e67" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" largura="200" altura= "400" />
 
