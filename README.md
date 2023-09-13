@@ -25,9 +25,9 @@ A pagina é para construir paginas iniciais simples e bonitas,dando para editar 
 
 ## 📄 Fontes consultadas 
 
-## https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+# https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 
-## https://www.alura.com.br/artigos/escrever-bom-readme
+# https://www.alura.com.br/artigos/escrever-bom-readme
 
 
 ## ✒️ Autores
