@@ -18,9 +18,9 @@
 ## 🔧 Funcionalidades
 
 ### 🛠️ Tecnologia ultilizadas 
-HTML
-CSS
-README
+HTML  
+CSS  
+README  
 
 ## 📄 Fontes consultadas 
 
