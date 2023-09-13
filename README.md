@@ -16,7 +16,7 @@
  
 
 ## 🔧 Funcionalidades
-A pagina é para construir paginas iniciais simples e bonitas ,dando para editar seu texto e adicionar sua propria foto de fundo e tendo as opições de características e contato
+A pagina é para construir paginas iniciais simples e bonitas,dando para editar seu texto e adicionar sua propria foto de fundo e tendo as opições de características e contato
 
 ### 🛠️ Tecnologia ultilizadas 
 * HTML  
