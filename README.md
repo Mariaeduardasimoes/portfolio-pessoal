@@ -16,6 +16,7 @@
  
 
 ## 🔧 Funcionalidades
+A pagina é para construir paginas iniciais simples e bonitas ,dando para editar seu texto e adicionar sua propria foto de fundo e tendo as opições de características e contato
 
 ### 🛠️ Tecnologia ultilizadas 
 * HTML  
@@ -30,7 +31,6 @@
 
 
 ## ✒️ Autores
-
-* Maria Eduarda Simões Almeida - Documentação 
+Maria Eduarda Simões Almeida 
 ![imagem](img/autora.jpeg)
 
