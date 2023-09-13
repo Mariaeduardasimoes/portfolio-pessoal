@@ -13,11 +13,14 @@
 ![imagem](img/Capa.png)
 
 ## 📋Descrição 
+ 
 
 ## 🔧 Funcionalidades
 
 ### 🛠️ Tecnologia ultilizadas 
-
+HTML
+CSS
+README
 
 ## 📄 Fontes consultadas 
 
