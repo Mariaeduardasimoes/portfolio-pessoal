@@ -10,18 +10,21 @@
 * [Autores](#autores)  
 
 # 🚀 Projeto - Portifólio para escrita do README
-![imagem](img/Capa.png)
+![imagem](img/capa.png)
 
 ## 📋Descrição 
- 
+  
 
 ## 🔧 Funcionalidades
-A pagina é para construir paginas iniciais simples e bonitas,dando para editar seu texto e adicionar sua propria foto de fundo e tendo as opições de características e contato
+* funcionalidade INÍCIO:Início mostra que dá para construir paginas iniciais simplese bonitas e para editar seu texto e adicionar sua propria foto de fundo e tendo as opições de características e contato.
+* funcionalidade NOVIDADES:Mostrando as novidades do aplicativo e suas novas funções.
+* funcionalidade CONTATOS:Serve para mostrar os telefones de quando precisar entrar em contato referente a página.
+* funcionalidade SABER MAIS:Irá mostra um pouco mais detalhado sobre a página.
 
 ### 🛠️ Tecnologia ultilizadas 
 * HTML  
 * CSS  
-* README  
+* README
 
 ## 📄 Fontes consultadas 
 
