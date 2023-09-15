@@ -13,7 +13,7 @@
 ![imagem](img/capa.png)
 
 ## 📋Descrição 
-  
+   É um site que auxilia os usuaria com ideias de caps de trabalhos
 
 ## 🔧 Funcionalidades
 * funcionalidade INÍCIO:
@@ -26,9 +26,9 @@ Serve para mostrar os telefones de quando precisar entrar em contato referente a
 Irá mostra um pouco mais detalhado sobre a página.
 
 ### 🛠️ Tecnologia ultilizadas 
-* HTML  
-* CSS  
-* README
+* HTML 5
+* CSS  3
+* JAVASCRIPT
 
 ## 📄 Fontes consultadas 
 
