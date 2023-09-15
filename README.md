@@ -13,7 +13,7 @@
 ![imagem](img/capa.png)
 
 ## 📋Descrição 
-   É um site que auxilia os usuaria com ideias de caps de trabalhos
+   É um site que auxilia os usuaria com ideias de capas de trabalhos
 
 ## 🔧 Funcionalidades
 * funcionalidade INÍCIO:
